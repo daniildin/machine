@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\machine\machine\bin\Debug\net9.0\machine.exe
+C:\Users\danie\OneDrive\Desktop\machine\machine\bin\Debug\net9.0\machine.deps.json
+C:\Users\danie\OneDrive\Desktop\machine\machine\bin\Debug\net9.0\machine.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\machine\machine\bin\Debug\net9.0\machine.dll
+C:\Users\danie\OneDrive\Desktop\machine\machine\bin\Debug\net9.0\machine.pdb
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.dll
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\refint\machine.dll
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.pdb
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\machine.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\machine\machine\obj\Debug\net9.0\ref\machine.dll
